@@ -14,5 +14,10 @@ python -m venv .venv
 python3 -m venv .venv
 source .venv/bin/activate  
 
+## Requirements install  
+pip install -r requirements.txt  
+
+## Create .env  
+
 ## Run app  
 python app.py
